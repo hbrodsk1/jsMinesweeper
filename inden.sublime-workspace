@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ele",
+				"element"
+			],
+			[
+				"ch",
+				"countAndCheck"
+			],
+			[
+				"g",
+				"gameOver"
+			],
+			[
+				"re",
+				"restart"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"elemen",
+				"elementIndex"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"gam",
+				"gameboard"
+			],
+			[
+				"game",
+				"gameOver"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"unit",
+				"unitIndex"
+			],
+			[
+				"win",
+				"winCombos"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"item",
+				"itemAmt"
+			],
+			[
+				"KE",
+				"KEY_DOWN"
+			],
+			[
+				"KEY",
+				"KEY_UP"
+			],
+			[
+				"key",
+				"keystate"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"set",
+				"setFood"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"food",
+				"food_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"foo",
+				"food_id"
+			],
+			[
+				"F",
+				"FactoryGirl"
+			],
+			[
+				"fl",
+				"flash"
+			],
+			[
+				"vote",
+				"vote_params"
+			],
+			[
+				"vot",
+				"vote_params"
+			],
+			[
+				"ass",
+				"assigns"
+			],
+			[
+				"atr",
+				"attributes_for"
+			],
+			[
+				"rei",
+				"redirect_to"
+			],
+			[
+				"att",
+				"attributes_for"
+			],
+			[
+				"G",
+				"FactoryGirl"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bu",
+				"byebug"
+			],
+			[
+				"be",
+				"be_invalid"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"live",
+				"livephish-video-wrapper"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"bo",
+				"border-image"
+			],
+			[
+				"co",
+				"col-3-12"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"col",
+				"col-1-12"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"\"auto_complete_commit_on_tab\": true,",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsTTT/jsTTT.js",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsTTT/style.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsTTT/index.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsSlider/slider.js",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsSlider/style.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsSlider/index.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/snake/style.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/snake/index.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/snake/cake.js",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/views/users/show.html.erb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/views/shared/_vote_form.html.erb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/views/layouts/application.html.erb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/helpers/application_helper.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/controllers/votes_controller.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/controllers/votes_controller_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/factories/users.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/factories/votes.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/controllers/foods_controller_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/controllers/foods_controller.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/factories/foods.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/models/vote_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/helpers/votes_helper_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/controllers/users_controller_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/views/foods/edit.html.erb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsRestaurant/restaurant.js",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsRestaurant/style.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsRestaurant/index.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsRestaurant/contact.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsRestaurant/menu.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/controllers/static_pages_controller_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsCalculator/calculator.js",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsCalculator/calculator.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/jsCalculator/index.html",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/views/static_pages/home.html.erb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/models/food_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/models/user_spec.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/Gemfile",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/rails_helper.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/spec/spec_helper.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/supersalad/app/models/user.rb",
+		"/Users/harrybrodsky/Desktop/the_odin_project/frizzle/style.scss",
+		"/Users/harrybrodsky/Desktop/the_odin_project/frizzle/style.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/frizzle/frizzle.css",
+		"/Users/harrybrodsky/Desktop/the_odin_project/frizzle/frizzle.scss",
+		"/Users/harrybrodsky/Desktop/the_odin_project/frizzle/_variables.scss",
+		"/Users/harrybrodsky/Desktop/the_odin_project/frizzle/_mixins.scss"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inden.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

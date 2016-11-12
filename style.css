@@ -4,6 +4,17 @@
 	text-align: center;
 }
 
+#flags {
+	position: relative;
+	background-color: gray;
+    height: 10%;
+    width: 10%;
+	line-height: 27px;
+    margin: 1px;
+    display: inline-block;
+    float: left;
+}
+
 #gameboard {
 	position: relative;
 	top: 30px;
@@ -17,11 +28,27 @@
 	background-color: gray;
     height: 10%;
     width: 10%;
+	line-height: 27px;
     margin: 1px;
     display: inline-block;
     float: left;
 }
 
 .mine {
-	background-color: white;
+}
+
+.hey {
+	background-color: blue;
+}
+
+.restart {
+	position: relative;
+	width: 200px;
+	height: 60px;
+	font-size: 150%;
+    line-height: 50px;
+    display: none;
+	margin: auto;
+	top: 40px;
+
 }

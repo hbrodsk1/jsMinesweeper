@@ -4,20 +4,18 @@ $(document).ready(function() {
 
 var gameboard = (function() {
 
+
 	var initialize = function(rows, cols) {
-		var flags = 0;
-		for(var x = 0; x < rows; x++) {
-				gamePlay.flagCount++;
+			gamePlay.flagCount = rows
+			for(var x = 0; x < rows; x++) {
         		for(var y = 0; y < cols; y++) {
             		var unit = $("<div class='unit'></div>");
             		unit.width(($('#gameboard').width() / cols) - 2).height(($('#gameboard').height() / rows) - 2).appendTo('#gameboard');
         		}
     		}
-
     	addId(rows, cols);
     	gatherMines(rows);
 	};
-
 	
 
 	var addId = function(rows, cols) {
@@ -72,7 +70,7 @@ var gameboard = (function() {
 
 	var checkDuplicates = function(array, rows) {
 		if($.unique(array).length < rows) {
-			gatherMines();
+			gatherMines(rows);
 		} else {
 			dropMines(array);
 		}
@@ -80,8 +78,8 @@ var gameboard = (function() {
 
 	var dropMines = function(array) {
   		$.each( array, function( arrayIndex, arrayValue ) {
-  				$(this).addClass("mine");
-  			});
+  			$(this).addClass("mine");
+  		});
 	}
 	
 
@@ -93,7 +91,6 @@ var gameboard = (function() {
 
 var gamePlay = (function() {
 
-	var flagCount = 0;
 
 	var disarmedMines = 0;
 
@@ -247,9 +244,8 @@ var gamePlay = (function() {
 
 	return {
 		go: go,
-		flagCount: flagCount
 	};
 
 }());
-gameboard.initialize(9, 9);
+gameboard.initialize(15, 15);
 gamePlay.go();

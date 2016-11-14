@@ -247,5 +247,5 @@ var gamePlay = (function() {
 	};
 
 }());
-gameboard.initialize(15, 15);
+gameboard.initialize(9, 9);
 gamePlay.go();

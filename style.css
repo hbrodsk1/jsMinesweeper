@@ -19,15 +19,15 @@
 	position: relative;
 	top: 30px;
 	margin: auto;
-	width: 300px;
-	height: 300px;
+	width: 500px;
+	height: 500px;
 }
 
 .unit {
 	position: relative;
 	background-color: gray;
-    height: 10%;
-    width: 10%;
+    height: 20px;
+    width: 20px;
 	line-height: 27px;
     margin: 1px;
     display: inline-block;
